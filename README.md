@@ -8,5 +8,5 @@ This is my personal portfolio build as a 3D island with the power of Three.js
 - Three.js
 - Vite
 
-  #Live Demo
+  # Live Demo
   Check it out: https://pavaleanuciprianportfolio.netlify.app/
