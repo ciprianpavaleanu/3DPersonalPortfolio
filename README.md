@@ -10,5 +10,6 @@ like projects, contact, about at check-points
 - Three.js
 - Vite
 
-  # Live Demo
-  Check it out: https://pavaleanuciprianportfolio.netlify.app/
+# Live Demo
+
+Check it out: https://ciprianpavaleanuportfolio.netlify.app/
