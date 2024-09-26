@@ -140,8 +140,8 @@ export const projects = [
     name: "Movie search app",
     description:
       "FilmoSphere is a react application that provides users with a way to explore movies, rate them, and manage their watched movies list. By leveraging the OMDB API (Open Movie Database), the app gains access to an extensive movie database, allowing users to quickly and easily find movie information, including genre, cast, director, ratings, and much more. ",
-    link: "https://filmosphere.netlify.app/",
-    github: "https://github.com/ciprianpavaleanu/filmosphere",
+    link: "https://filmospherev2.netlify.app",
+    github: "https://github.com/ciprianpavaleanu/filmospherev2",
   },
   // {
   //   iconUrl: estate,
