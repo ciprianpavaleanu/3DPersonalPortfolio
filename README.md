@@ -1,6 +1,6 @@
 
 # 3DPersonalPortfolio
-This is my personal portfolio build as a 3D island with the power of Three.js
+This is my personal portfolio built as a 3D island with the power of Three.js
 
 # Tech Stack 
 - React
