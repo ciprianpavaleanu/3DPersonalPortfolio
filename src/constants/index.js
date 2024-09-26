@@ -1,8 +1,6 @@
 import {
-  car,
   contact,
   css,
-  estate,
   git,
   github,
   html,
@@ -12,8 +10,6 @@ import {
   react,
   redux,
   sass,
-  snapgram,
-  summiz,
   tailwindcss,
   AIrobot,
   typescript,
@@ -143,20 +139,4 @@ export const projects = [
     link: "https://filmospherev2.netlify.app",
     github: "https://github.com/ciprianpavaleanu/filmospherev2",
   },
-  // {
-  //   iconUrl: estate,
-  //   theme: "btn-back-black",
-  //   name: "Real-Estate Application",
-  //   description:
-  //     "Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.",
-  //   link: "https://github.com/adrianhajdin/projects_realestate",
-  // },
-  // {
-  //   iconUrl: summiz,
-  //   theme: "btn-back-yellow",
-  //   name: "AI Summarizer Application",
-  //   description:
-  //     "App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.",
-  //   link: "https://github.com/adrianhajdin/project_ai_summarizer",
-  // },
 ];
